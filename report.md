@@ -72,8 +72,6 @@ Se realizaron:
   - Esperas promedio
   - Utilización de recursos
 
-El aumento en el número de réplicas permite reducir la variabilidad del estimador y obtener intervalos de confianza más precisos.
-
 ---
 
 ## 6. Resultados
